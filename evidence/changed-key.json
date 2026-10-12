@@ -1,0 +1,114 @@
+[
+ {
+  "n": 1,
+  "replaces_n": 458,
+  "model": "g3voice4",
+  "set": "set3",
+  "question_id": "ridge|blind-redrivergorge-1"
+ },
+ {
+  "n": 2,
+  "replaces_n": 87,
+  "model": "g3voice4",
+  "set": "set3",
+  "question_id": "scout|blind-lavabeds-3"
+ },
+ {
+  "n": 3,
+  "replaces_n": 179,
+  "model": "g3voice4",
+  "set": "set2",
+  "question_id": "juniper|blind-windrivers-4"
+ },
+ {
+  "n": 4,
+  "replaces_n": 103,
+  "model": "g3voice4",
+  "set": "set3",
+  "question_id": "sage|blind-lavabeds-3"
+ },
+ {
+  "n": 5,
+  "replaces_n": 209,
+  "model": "g3voice4",
+  "set": "set3",
+  "question_id": "ridge|blind-apostleislands-2"
+ },
+ {
+  "n": 6,
+  "replaces_n": 208,
+  "model": "g3voice4",
+  "set": "set2",
+  "question_id": "plain|blind-windrivers-4"
+ },
+ {
+  "n": 7,
+  "replaces_n": 166,
+  "model": "g3voice4",
+  "set": "set3",
+  "question_id": "plain|blind-lavabeds-3"
+ },
+ {
+  "n": 8,
+  "replaces_n": 222,
+  "model": "g3voice4",
+  "set": "set3",
+  "question_id": "juniper|blind-watoga-2"
+ },
+ {
+  "n": 9,
+  "replaces_n": 363,
+  "model": "g3voice4",
+  "set": "set3",
+  "question_id": "plain|blind-redrivergorge-1"
+ },
+ {
+  "n": 10,
+  "replaces_n": 299,
+  "model": "sonnet",
+  "set": "set3",
+  "question_id": "plain|blind-apostleislands-4"
+ },
+ {
+  "n": 11,
+  "replaces_n": 155,
+  "model": "g3voice4",
+  "set": "set2",
+  "question_id": "plain|blind-redrockcanyonca-4"
+ },
+ {
+  "n": 12,
+  "replaces_n": 93,
+  "model": "sonnet",
+  "set": "set3",
+  "question_id": "plain|blind-lavabeds-3"
+ },
+ {
+  "n": 13,
+  "replaces_n": 449,
+  "model": "g3voice4",
+  "set": "set3",
+  "question_id": "scout|blind-watoga-2"
+ },
+ {
+  "n": 14,
+  "replaces_n": 105,
+  "model": "g3voice4",
+  "set": "set2",
+  "question_id": "sage|blind-bandelier-3"
+ },
+ {
+  "n": 15,
+  "replaces_n": 18,
+  "model": "haiku",
+  "set": "set3",
+  "question_id": "plain|blind-lavabeds-3"
+ },
+ {
+  "n": 16,
+  "replaces_n": 8,
+  "model": "g3voice4",
+  "set": "set3",
+  "question_id": "plain|blind-apostleislands-4"
+ }
+]

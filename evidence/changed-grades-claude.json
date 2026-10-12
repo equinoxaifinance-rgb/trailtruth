@@ -1,0 +1,98 @@
+[
+ {
+  "n": 1,
+  "truth": "ok",
+  "useful": "no",
+  "why": "No factual claim; never says no trail connects or that Eagle Nest Ln is the access. Dodges."
+ },
+ {
+  "n": 2,
+  "truth": "ok",
+  "useful": "no",
+  "why": "Daylight shortfall supported, but no distance, route, or note that the route stops 0.2 mi short off trail."
+ },
+ {
+  "n": 3,
+  "truth": "ok",
+  "useful": "no",
+  "why": "No water sources named, nothing about intermittent stream; dodges the answer the facts hold."
+ },
+ {
+  "n": 4,
+  "truth": "ok",
+  "useful": "no",
+  "why": "Daylight claim supported; no route, distance or stop-short note."
+ },
+ {
+  "n": 5,
+  "truth": "ok",
+  "useful": "no",
+  "why": "No claim; omits that no trail connects and the unnamed road access. Dodges."
+ },
+ {
+  "n": 6,
+  "truth": "ok",
+  "useful": "no",
+  "why": "Treat-water advice only; lists none of the streams/lakes."
+ },
+ {
+  "n": 7,
+  "truth": "ok",
+  "useful": "no",
+  "why": "Supported daylight line only; no route info or stop-short warning."
+ },
+ {
+  "n": 8,
+  "truth": "ok",
+  "useful": "no",
+  "why": "No water sources given; ignores intermittent stream and rivers."
+ },
+ {
+  "n": 9,
+  "truth": "ok",
+  "useful": "no",
+  "why": "No claim; doesn't say networks are separate or name Eagle Nest Ln access."
+ },
+ {
+  "n": 10,
+  "truth": "ok",
+  "useful": "no",
+  "why": "1 h 30 min supported; omits route, 1 h 40 min walk, and stop 610 ft short off trail."
+ },
+ {
+  "n": 11,
+  "truth": "ok",
+  "useful": "no",
+  "why": "Daylight shortfall supported; no route, distance, or 0.8 mi off-trail stop."
+ },
+ {
+  "n": 12,
+  "truth": "ok",
+  "useful": "no",
+  "why": "3 h 33 min supported; no route, distance or stop-short note."
+ },
+ {
+  "n": 13,
+  "truth": "ok",
+  "useful": "no",
+  "why": "No water sources listed; dodges."
+ },
+ {
+  "n": 14,
+  "truth": "ok",
+  "useful": "no",
+  "why": "No claim; omits separate networks and Parking Lot/Pueblo Loop Trail access."
+ },
+ {
+  "n": 15,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "28 mi and 3 h 33 min both exact; correct takeaway that it won't fit today. No walking time given, so stop-short omission not a defect."
+ },
+ {
+  "n": 16,
+  "truth": "ok",
+  "useful": "no",
+  "why": "Daylight shortfall supported; no route, distance or 610 ft off-trail stop."
+ }
+]

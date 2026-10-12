@@ -1,0 +1,2882 @@
+[
+ {
+  "n": 1,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Location and Locust Creek Rd 40 ft west match facts"
+ },
+ {
+  "n": 2,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Says live info unavailable, ask ranger"
+ },
+ {
+  "n": 3,
+  "truth": "ok",
+  "useful": "no",
+  "why": "Length correct but omits elevation, climb and connections"
+ },
+ {
+  "n": 4,
+  "truth": "real",
+  "useful": "no",
+  "why": "Claims no permits needed; facts say no live permit info"
+ },
+ {
+  "n": 5,
+  "truth": "ok",
+  "useful": "no",
+  "why": "Garbled restatement; omits route steps, 0.8 mi off-trail gap and daylight warning"
+ },
+ {
+  "n": 6,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Time, daylight and 0.2 mi short all match; 'Good news' tone odd"
+ },
+ {
+  "n": 7,
+  "truth": "real",
+  "useful": "no",
+  "why": "Invents a 15-mile route heading west-northwest; facts say 23 mi"
+ },
+ {
+  "n": 8,
+  "truth": "borderline",
+  "useful": "yes",
+  "why": "Numbers and daylight right but drops that route stops 610 ft short, off any mapped trail"
+ },
+ {
+  "n": 9,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Flags intermittent nearest stream as unreliable"
+ },
+ {
+  "n": 10,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Elevation matches"
+ },
+ {
+  "n": 11,
+  "truth": "borderline",
+  "useful": "no",
+  "why": "Flags intermittent stream but says more water 'listed below' when none is given"
+ },
+ {
+  "n": 12,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Both taps match"
+ },
+ {
+  "n": 13,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "No wildlife data, ask rangers"
+ },
+ {
+  "n": 14,
+  "truth": "ok",
+  "useful": "no",
+  "why": "Omits that Clayton Creek Trail is reached from unnamed road trailhead"
+ },
+ {
+  "n": 15,
+  "truth": "borderline",
+  "useful": "no",
+  "why": "Calls it 'a lake'; fails to ask which of the two Junction Lakes"
+ },
+ {
+  "n": 16,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Junction with Capser Road, outside boundary, Old Fort 900 ft SSE match"
+ },
+ {
+  "n": 17,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Sun down, dark by 6:49 PM match"
+ },
+ {
+  "n": 18,
+  "truth": "borderline",
+  "useful": "yes",
+  "why": "Says won't fit today, but drops that route stops 0.2 mi short off any mapped trail"
+ },
+ {
+  "n": 19,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Sun set, dark by 6:49 PM"
+ },
+ {
+  "n": 20,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Time and daylight match; route reaches destination"
+ },
+ {
+  "n": 21,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Elevation matches"
+ },
+ {
+  "n": 22,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Time, daylight and 0.8 mi short all match"
+ },
+ {
+  "n": 23,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Time and daylight match"
+ },
+ {
+  "n": 24,
+  "truth": "real",
+  "useful": "no",
+  "why": "Adds 'gentle climb', 'steady incline', 'relatively short'; garbles meets list; truncated"
+ },
+ {
+  "n": 25,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Unnamed road and elevation correct"
+ },
+ {
+  "n": 26,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Can't judge, no ratings, ask ranger"
+ },
+ {
+  "n": 27,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Asks which Junction Lake"
+ },
+ {
+  "n": 28,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Time, daylight and off-trail end all stated"
+ },
+ {
+  "n": 29,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "No live conditions, check alerts or ranger"
+ },
+ {
+  "n": 30,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Can't judge, 6.9 mi, ask ranger"
+ },
+ {
+  "n": 31,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Sun set, dark by 6:48 PM"
+ },
+ {
+  "n": 32,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Perennial stream 200 ft SW and Middlebury River 570 ft N match"
+ },
+ {
+  "n": 33,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Verbatim copy of facts"
+ },
+ {
+  "n": 34,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Time and daylight match; route reaches destination"
+ },
+ {
+  "n": 35,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Asks which Trail Information"
+ },
+ {
+  "n": 36,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Tap 140 ft east matches"
+ },
+ {
+  "n": 37,
+  "truth": "borderline",
+  "useful": "no",
+  "why": "Says 'Those are incorrect' and gives no sunset or dark time"
+ },
+ {
+  "n": 38,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "23 mi, 10 h, 19 min until dark match"
+ },
+ {
+  "n": 39,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Elevation, distance, nearest road match; does not mention intermittent flow"
+ },
+ {
+  "n": 40,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Tap 140 ft east matches"
+ },
+ {
+  "n": 41,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Can't judge, 9.7 mi, ask ranger"
+ },
+ {
+  "n": 42,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Sunset, dark time and 3 h 06 min match"
+ },
+ {
+  "n": 43,
+  "truth": "real",
+  "useful": "no",
+  "why": "Implies water to filter; all nearby streams are intermittent and unmentioned"
+ },
+ {
+  "n": 44,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Can't judge; 1,155 ft one way climb matches"
+ },
+ {
+  "n": 45,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Can't judge, 2.9 mi, ask ranger"
+ },
+ {
+  "n": 46,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Can't judge, 2.5 mi, ask ranger"
+ },
+ {
+  "n": 47,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Elevation matches"
+ },
+ {
+  "n": 48,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Distance and elevation match"
+ },
+ {
+  "n": 49,
+  "truth": "real",
+  "useful": "no",
+  "why": "Says 'just a few more minutes until we can see the trail clearly'; contradicts approaching dark"
+ },
+ {
+  "n": 50,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Distance, time, daylight and 0.2 mi off-trail end all stated"
+ },
+ {
+  "n": 51,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Time and daylight match; advises turning back"
+ },
+ {
+  "n": 52,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "2.2 mi, 45 min match"
+ },
+ {
+  "n": 53,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Time, daylight and 0.8 mi off-trail end stated"
+ },
+ {
+  "n": 54,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "No wildlife data, check rangers"
+ },
+ {
+  "n": 55,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "37 min until sunset matches"
+ },
+ {
+  "n": 56,
+  "truth": "ok",
+  "useful": "no",
+  "why": "Gives only dark time; omits the asked sunset time 6:36 PM"
+ },
+ {
+  "n": 57,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Time and daylight match"
+ },
+ {
+  "n": 58,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Sun down, dark by 6:48 PM"
+ },
+ {
+  "n": 59,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Verbatim but truncated; core location given"
+ },
+ {
+  "n": 60,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Titcomb Lakes and perennial stream match; no claim on intermittent stream"
+ },
+ {
+  "n": 61,
+  "truth": "real",
+  "useful": "yes",
+  "why": "Elevation right but invents 'a bit above the trailhead'"
+ },
+ {
+  "n": 62,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Asks which one"
+ },
+ {
+  "n": 63,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "No rating, 2.9 mi, ask ranger"
+ },
+ {
+  "n": 64,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Flags nearest stream as intermittent, gives lake"
+ },
+ {
+  "n": 65,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Nearest stream 200 ft matches"
+ },
+ {
+  "n": 66,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "No wildlife info, check alerts"
+ },
+ {
+  "n": 67,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "No wildlife info, ask ranger"
+ },
+ {
+  "n": 68,
+  "truth": "ok",
+  "useful": "no",
+  "why": "Only says unnamed road; no useful location details"
+ },
+ {
+  "n": 69,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "15 minutes matches; 'fair walk' mild"
+ },
+ {
+  "n": 70,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Time, daylight and 0.8 mi short stated"
+ },
+ {
+  "n": 71,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Gap, 13 mi match; omits direction and nearest trail"
+ },
+ {
+  "n": 72,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Sunset, dark, times match"
+ },
+ {
+  "n": 73,
+  "truth": "ok",
+  "useful": "no",
+  "why": "Omits that it is reached from Eagle Nest Ln trailhead"
+ },
+ {
+  "n": 74,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Old County Road K, Bloom Road 150 ft SSW match"
+ },
+ {
+  "n": 75,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Elevation, distance, direction, nearest trail match"
+ },
+ {
+  "n": 76,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Can't judge, ask ranger"
+ },
+ {
+  "n": 77,
+  "truth": "ok",
+  "useful": "no",
+  "why": "Omits that it is reached from Parking Lot via Pueblo Loop Trail"
+ },
+ {
+  "n": 78,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Sunset 6:36 PM and 3 h 06 min match"
+ },
+ {
+  "n": 79,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Sunset and dark time match"
+ },
+ {
+  "n": 80,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "0.7 mi matches"
+ },
+ {
+  "n": 81,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Old County Road K, Bloom Road 150 ft match"
+ },
+ {
+  "n": 82,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Gap, 13 mi match"
+ },
+ {
+  "n": 83,
+  "truth": "real",
+  "useful": "no",
+  "why": "Invents 'significant climb', 'challenging route', 13-mile trail, CDT to northwest"
+ },
+ {
+  "n": 84,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Boundary, elevation, Locust Creek Rd 40 ft west match"
+ },
+ {
+  "n": 85,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Jackson Farm Spring is nearest named place"
+ },
+ {
+  "n": 86,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Distance, time, daylight match; advises not to set off"
+ },
+ {
+  "n": 87,
+  "truth": "borderline",
+  "useful": "yes",
+  "why": "Advises heading back but drops 0.2 mi off-trail end"
+ },
+ {
+  "n": 88,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Kettle Creek perennial 0.5 mi ESE matches"
+ },
+ {
+  "n": 89,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Offers closest matching name"
+ },
+ {
+  "n": 90,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Time and daylight match; route reaches destination"
+ },
+ {
+  "n": 91,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Sun set, dark at 6:48 PM"
+ },
+ {
+  "n": 92,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Verbatim copy including intermittent flags"
+ },
+ {
+  "n": 93,
+  "truth": "borderline",
+  "useful": "yes",
+  "why": "Time and daylight right but drops 0.2 mi off-trail end"
+ },
+ {
+  "n": 94,
+  "truth": "real",
+  "useful": "no",
+  "why": "Implies drinkable water; nearby streams are intermittent; no facts given"
+ },
+ {
+  "n": 95,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Tap 140 ft matches"
+ },
+ {
+  "n": 96,
+  "truth": "real",
+  "useful": "no",
+  "why": "Drops daylight warning and off-trail end; only first steps, 'We're great!'"
+ },
+ {
+  "n": 97,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "No wildlife data, ask ranger"
+ },
+ {
+  "n": 98,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Location, elevation, trail continuation match"
+ },
+ {
+  "n": 99,
+  "truth": "real",
+  "useful": "no",
+  "why": "Invents rocky trail, clearing, significant body of water; doesn't ask which"
+ },
+ {
+  "n": 100,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Sunset, dark, 3 h 06 min match"
+ },
+ {
+  "n": 101,
+  "truth": "ok",
+  "useful": "no",
+  "why": "Doesn't offer closest names, which include the exact name asked"
+ },
+ {
+  "n": 102,
+  "truth": "borderline",
+  "useful": "no",
+  "why": "Gives nearest road only; dodges stream details the facts hold"
+ },
+ {
+  "n": 103,
+  "truth": "borderline",
+  "useful": "yes",
+  "why": "Time and daylight right; drops 0.2 mi off-trail end"
+ },
+ {
+  "n": 104,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Time and daylight match"
+ },
+ {
+  "n": 105,
+  "truth": "real",
+  "useful": "no",
+  "why": "Says none reaches it; facts say reached from Parking Lot via Pueblo Loop Trail"
+ },
+ {
+  "n": 106,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Asks which one"
+ },
+ {
+  "n": 107,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Sun set, dark by 6:48 PM"
+ },
+ {
+  "n": 108,
+  "truth": "ok",
+  "useful": "no",
+  "why": "Gives no answer; omits no-connection and Eagle Nest Ln trailhead"
+ },
+ {
+  "n": 109,
+  "truth": "real",
+  "useful": "no",
+  "why": "Greenbrier River given as southwest 0.6 km (facts: SE 0.9 mi); Island Lick Run direction changed"
+ },
+ {
+  "n": 110,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Location, elevation, Jackson Farm Spring match"
+ },
+ {
+  "n": 111,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Sunset, dark, 2 h 35 min match"
+ },
+ {
+  "n": 112,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Unnamed road, boundary, elevation match"
+ },
+ {
+  "n": 113,
+  "truth": "real",
+  "useful": "no",
+  "why": "Invents 'good option', 'gradual incline'"
+ },
+ {
+  "n": 114,
+  "truth": "real",
+  "useful": "no",
+  "why": "Invents 'beautiful option', 'trail is marked'; doesn't say it can't judge"
+ },
+ {
+  "n": 115,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Elevation matches"
+ },
+ {
+  "n": 116,
+  "truth": "real",
+  "useful": "no",
+  "why": "Adds 'rough climb'; changes bear right at Park Road to turn right; truncated"
+ },
+ {
+  "n": 117,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Can't judge, 5.5 mi"
+ },
+ {
+  "n": 118,
+  "truth": "real",
+  "useful": "no",
+  "why": "Garbled sunset math; invents 'time to begin your descent'; omits sunset time"
+ },
+ {
+  "n": 119,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Elevation matches"
+ },
+ {
+  "n": 120,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Can't judge, ask ranger, 5.5 mi"
+ },
+ {
+  "n": 121,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Asks which one, matches facts"
+ },
+ {
+  "n": 122,
+  "truth": "ok",
+  "useful": "no",
+  "why": "Only says unnamed road; omits connecting roads, nearby places, outside park boundary"
+ },
+ {
+  "n": 123,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Flags intermittent stream, gives Greenbrier River correctly"
+ },
+ {
+  "n": 124,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Distance, time, and daylight shortfall correct"
+ },
+ {
+  "n": 125,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Time, daylight and 610 ft short-of-destination correct"
+ },
+ {
+  "n": 126,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Asks which one"
+ },
+ {
+  "n": 127,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "No ratings, ask a ranger"
+ },
+ {
+  "n": 128,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "No ratings, ask a ranger"
+ },
+ {
+  "n": 129,
+  "truth": "ok",
+  "useful": "no",
+  "why": "Flags intermittent but gives no distance/direction and omits nearby lake and perennial water"
+ },
+ {
+  "n": 130,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Time vs daylight correct, advises not today"
+ },
+ {
+  "n": 131,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "No ratings, 9.7 mi, ask ranger"
+ },
+ {
+  "n": 132,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Sunset and dark times correct"
+ },
+ {
+  "n": 133,
+  "truth": "ok",
+  "useful": "no",
+  "why": "Omits that it is reached by trail from Eagle Nest Ln and the gap details"
+ },
+ {
+  "n": 134,
+  "truth": "ok",
+  "useful": "no",
+  "why": "Gives nothing; omits separate networks and access from unnamed road"
+ },
+ {
+  "n": 135,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Flags intermittent, Greenbrier River correct"
+ },
+ {
+  "n": 136,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "30 min until dark correct"
+ },
+ {
+  "n": 137,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "No ratings, 2.3 mi correct"
+ },
+ {
+  "n": 138,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "No ratings, 3.4 mi one way, ask ranger"
+ },
+ {
+  "n": 139,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Times correct"
+ },
+ {
+  "n": 140,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Times correct"
+ },
+ {
+  "n": 141,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Asks which Junction Lake"
+ },
+ {
+  "n": 142,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "No ratings, ask ranger, 2.5 mi correct"
+ },
+ {
+  "n": 143,
+  "truth": "real",
+  "useful": "no",
+  "why": "Garbled; says sun is setting at 6:20 and trail is dark at 6:30 (dark is 6:49); invents 'lot of ground to cover'"
+ },
+ {
+  "n": 144,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Time vs daylight correct"
+ },
+ {
+  "n": 145,
+  "truth": "ok",
+  "useful": "no",
+  "why": "Omits the closest-name list, which includes the exact trail asked about"
+ },
+ {
+  "n": 146,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Distance, time, daylight correct"
+ },
+ {
+  "n": 147,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Sunset time correct; omits dark time but main point given"
+ },
+ {
+  "n": 148,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Elevation correct"
+ },
+ {
+  "n": 149,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Times correct"
+ },
+ {
+  "n": 150,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Time vs 19 min daylight correct"
+ },
+ {
+  "n": 151,
+  "truth": "ok",
+  "useful": "no",
+  "why": "Only distance; no route directions or time"
+ },
+ {
+  "n": 152,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Time vs daylight correct"
+ },
+ {
+  "n": 153,
+  "truth": "borderline",
+  "useful": "no",
+  "why": "170 ft NW stream could be the intermittent one, not flagged; garbled text; omits lake"
+ },
+ {
+  "n": 154,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Asks which one"
+ },
+ {
+  "n": 155,
+  "truth": "real",
+  "useful": "yes",
+  "why": "Gives walking time but drops that route stops 0.8 mi short, off any mapped trail"
+ },
+ {
+  "n": 156,
+  "truth": "real",
+  "useful": "yes",
+  "why": "170 ft (51 m) stream is the intermittent one but not called possibly dry"
+ },
+ {
+  "n": 157,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Time, daylight, 0.8 mi off trail all correct"
+ },
+ {
+  "n": 158,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Asks which one"
+ },
+ {
+  "n": 159,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Asks which one"
+ },
+ {
+  "n": 160,
+  "truth": "borderline",
+  "useful": "yes",
+  "why": "Verbatim facts; intermittent labeled but not explained as possibly dry"
+ },
+ {
+  "n": 161,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "No live conditions, check alerts/ranger"
+ },
+ {
+  "n": 162,
+  "truth": "ok",
+  "useful": "no",
+  "why": "Says Kettle Creek 'close by' with no distance or direction"
+ },
+ {
+  "n": 163,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Unnamed road, outside park, elevation correct"
+ },
+ {
+  "n": 164,
+  "truth": "real",
+  "useful": "no",
+  "why": "Invented terrain description; ignores disambiguation"
+ },
+ {
+  "n": 165,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "No ratings; 1,155 ft climb in one direction is supported"
+ },
+ {
+  "n": 166,
+  "truth": "real",
+  "useful": "yes",
+  "why": "Gives walking time but drops that route stops 0.2 mi short, off any mapped trail"
+ },
+ {
+  "n": 167,
+  "truth": "borderline",
+  "useful": "no",
+  "why": "'I'm here' is a misleading non-answer; gives no route, time or daylight warning"
+ },
+ {
+  "n": 168,
+  "truth": "borderline",
+  "useful": "yes",
+  "why": "Verbatim facts; intermittent labeled but not explained as possibly dry"
+ },
+ {
+  "n": 169,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Time vs daylight, ends off mapped trail"
+ },
+ {
+  "n": 170,
+  "truth": "ok",
+  "useful": "no",
+  "why": "Distance/climb/time correct but no directions at all"
+ },
+ {
+  "n": 171,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "No ratings, ask ranger, 2.9 mi"
+ },
+ {
+  "n": 172,
+  "truth": "real",
+  "useful": "no",
+  "why": "Garbled; falsely says hiker is at a point where trail intersects Tulelake Division"
+ },
+ {
+  "n": 173,
+  "truth": "ok",
+  "useful": "no",
+  "why": "Says Kettle Creek 'close by' with no distance or direction"
+ },
+ {
+  "n": 174,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "6.9 mi west correct; intermittent streams flagged"
+ },
+ {
+  "n": 175,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Time vs daylight and 0.2 mi short off trail correct"
+ },
+ {
+  "n": 176,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Elevation correct"
+ },
+ {
+  "n": 177,
+  "truth": "real",
+  "useful": "no",
+  "why": "Invents rewarding views, challenging terrain, significant climb; misstates 235 ft as elevation difference; no ranger note"
+ },
+ {
+  "n": 178,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Asks which one"
+ },
+ {
+  "n": 179,
+  "truth": "borderline",
+  "useful": "no",
+  "why": "170 ft stream may be the intermittent one, not flagged; no direction"
+ },
+ {
+  "n": 180,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Sun down, dark at 6:48 correct"
+ },
+ {
+  "n": 181,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "37 min to sunset correct"
+ },
+ {
+  "n": 182,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Times correct"
+ },
+ {
+  "n": 183,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Elevation correct"
+ },
+ {
+  "n": 184,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Time vs 34 min daylight correct"
+ },
+ {
+  "n": 185,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Asks which one"
+ },
+ {
+  "n": 186,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Sun set, dark 6:49 correct"
+ },
+ {
+  "n": 187,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "No ratings, 4.1 mi, ask ranger"
+ },
+ {
+  "n": 188,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "No ratings, ask ranger"
+ },
+ {
+  "n": 189,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Taps 140 ft east and 0.4 mi north correct"
+ },
+ {
+  "n": 190,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Elevation correct"
+ },
+ {
+  "n": 191,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "No ratings, 2.3 mi, ask ranger"
+ },
+ {
+  "n": 192,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "2 h 09 min to sunset correct"
+ },
+ {
+  "n": 193,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Time, daylight and 0.8 mi short correct"
+ },
+ {
+  "n": 194,
+  "truth": "ok",
+  "useful": "no",
+  "why": "Omits that Clayton Creek Trail is reached from an unnamed road and the gap distances"
+ },
+ {
+  "n": 195,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Time vs daylight correct"
+ },
+ {
+  "n": 196,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Length, maintainer, road access correct"
+ },
+ {
+  "n": 197,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Elevation correct"
+ },
+ {
+  "n": 198,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "No live permit info, check alerts/ranger"
+ },
+ {
+  "n": 199,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Taps 140 ft east and 0.4 mi north correct"
+ },
+ {
+  "n": 200,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Verbatim route"
+ },
+ {
+  "n": 201,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "No ratings, ask ranger"
+ },
+ {
+  "n": 202,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "No ratings, 2.3 mi, ask ranger"
+ },
+ {
+  "n": 203,
+  "truth": "ok",
+  "useful": "no",
+  "why": "Omits that Hawkins Branch is reached from Eagle Nest Ln and gap details"
+ },
+ {
+  "n": 204,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Time, daylight, 0.8 mi short off trail correct"
+ },
+ {
+  "n": 205,
+  "truth": "borderline",
+  "useful": "no",
+  "why": "Garbled 'You have about 6:48 PM'; doesn't say sun has set; refers to nonexistent details"
+ },
+ {
+  "n": 206,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Elevation correct"
+ },
+ {
+  "n": 207,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "No live conditions, ask ranger"
+ },
+ {
+  "n": 208,
+  "truth": "borderline",
+  "useful": "no",
+  "why": "170 ft stream may be the intermittent one, not flagged; no direction"
+ },
+ {
+  "n": 209,
+  "truth": "real",
+  "useful": "no",
+  "why": "Says none reaches Clayton Creek Trail, but facts say it is reached from an unnamed road; omits that"
+ },
+ {
+  "n": 210,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Times correct"
+ },
+ {
+  "n": 211,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Times correct"
+ },
+ {
+  "n": 212,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "No ratings, ask ranger"
+ },
+ {
+  "n": 213,
+  "truth": "ok",
+  "useful": "no",
+  "why": "Distance/climb/time correct but no directions"
+ },
+ {
+  "n": 214,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "No live conditions, check alerts/ranger"
+ },
+ {
+  "n": 215,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Time, daylight, 0.8 mi short off trail correct"
+ },
+ {
+  "n": 216,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Perennial stream 200 ft SW, Middlebury River nearby correct"
+ },
+ {
+  "n": 217,
+  "truth": "ok",
+  "useful": "no",
+  "why": "Gives only 7.0 mi; omits east direction, elevation and nearest trail"
+ },
+ {
+  "n": 218,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "400 ft stream flagged intermittent"
+ },
+ {
+  "n": 219,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "No live info, ranger/alerts"
+ },
+ {
+  "n": 220,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Road name, junctions and outside park correct"
+ },
+ {
+  "n": 221,
+  "truth": "real",
+  "useful": "no",
+  "why": "Claims 'you're almost there'; omits distance, daylight shortfall and short-of-destination"
+ },
+ {
+  "n": 222,
+  "truth": "real",
+  "useful": "no",
+  "why": "400 ft stream is intermittent but not flagged; no direction"
+ },
+ {
+  "n": 223,
+  "truth": "borderline",
+  "useful": "yes",
+  "why": "Titcomb Lakes correct; 170 ft NW streams include an intermittent one not flagged"
+ },
+ {
+  "n": 224,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Time vs daylight, ends off mapped trail correct"
+ },
+ {
+  "n": 225,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "No ratings, 5.5 mi"
+ },
+ {
+  "n": 226,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "No live conditions, alerts/ranger"
+ },
+ {
+  "n": 227,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "30 min until dark correct"
+ },
+ {
+  "n": 228,
+  "truth": "ok",
+  "useful": "no",
+  "why": "0.7 mi and 15 min correct but no directions"
+ },
+ {
+  "n": 229,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Elevation, 7.0 mi east correct"
+ },
+ {
+  "n": 230,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Distance, time, daylight, 0.8 mi SSE off trail correct"
+ },
+ {
+  "n": 231,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Times correct"
+ },
+ {
+  "n": 232,
+  "truth": "ok",
+  "useful": "no",
+  "why": "Omits that Clayton Creek Trail is reached from an unnamed road"
+ },
+ {
+  "n": 233,
+  "truth": "real",
+  "useful": "no",
+  "why": "Misstates the destination as 0.2 mi NNE; omits 28 mi, 9 h 45 min and daylight shortfall"
+ },
+ {
+  "n": 234,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "No ratings, 2.9 mi, 328 ft one way correct"
+ },
+ {
+  "n": 235,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Names Old County Road K correctly"
+ },
+ {
+  "n": 236,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Distance, time vs daylight correct"
+ },
+ {
+  "n": 237,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "10 h vs 19 min daylight correct"
+ },
+ {
+  "n": 238,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Asks which one"
+ },
+ {
+  "n": 239,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Asks which one"
+ },
+ {
+  "n": 240,
+  "truth": "ok",
+  "useful": "no",
+  "why": "40 min correct but no directions or distance"
+ },
+ {
+  "n": 241,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "faithful: gap, elevation, distance, direction, nearest trail"
+ },
+ {
+  "n": 242,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "can't judge, ask ranger, length given"
+ },
+ {
+  "n": 243,
+  "truth": "ok",
+  "useful": "no",
+  "why": "gives only distance; no directions for a how-to-get-there question"
+ },
+ {
+  "n": 244,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "can't judge, no ratings, ask ranger"
+ },
+ {
+  "n": 245,
+  "truth": "ok",
+  "useful": "no",
+  "why": "says try another name but omits the listed closest names (incl. the exact one asked)"
+ },
+ {
+  "n": 246,
+  "truth": "ok",
+  "useful": "no",
+  "why": "drops that the restroom is reached from Parking Lot by trail; no alternative given"
+ },
+ {
+  "n": 247,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "daylight shortfall and 0.2 mi short noted"
+ },
+ {
+  "n": 248,
+  "truth": "borderline",
+  "useful": "yes",
+  "why": "correct road; implies hiker is heading SSW, which facts don't state"
+ },
+ {
+  "n": 249,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "daylight shortfall and stops short noted"
+ },
+ {
+  "n": 250,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "sunset and dark times correct"
+ },
+ {
+  "n": 251,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "location and elevation correct; no water claim made"
+ },
+ {
+  "n": 252,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "asks which of two"
+ },
+ {
+  "n": 253,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "all times correct"
+ },
+ {
+  "n": 254,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "sunset and time to dark correct"
+ },
+ {
+  "n": 255,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "can't judge, ask ranger"
+ },
+ {
+  "n": 256,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "no live info, check alerts/ranger"
+ },
+ {
+  "n": 257,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "nearest tap correct"
+ },
+ {
+  "n": 258,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "daylight shortfall stated; turning back is advice"
+ },
+ {
+  "n": 259,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "times correct"
+ },
+ {
+  "n": 260,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "road, elevation, trail end correct"
+ },
+ {
+  "n": 261,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "no live info, ask ranger"
+ },
+ {
+  "n": 262,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "asks which one"
+ },
+ {
+  "n": 263,
+  "truth": "ok",
+  "useful": "no",
+  "why": "omits the sunset time asked for"
+ },
+ {
+  "n": 264,
+  "truth": "ok",
+  "useful": "no",
+  "why": "vague 'nothing I checked'; omits that it is reached from Eagle Nest Ln"
+ },
+ {
+  "n": 265,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "distance/direction right and flags it as intermittent"
+ },
+ {
+  "n": 266,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "daylight shortfall and 0.8 mi off-trail gap stated"
+ },
+ {
+  "n": 267,
+  "truth": "real",
+  "useful": "no",
+  "why": "'we're almost there' for an 18 mi, 7h35 route with 1h03 of light; drops daylight warning"
+ },
+ {
+  "n": 268,
+  "truth": "real",
+  "useful": "yes",
+  "why": "says 1h03 until sun completely below horizon; that is time until dark, not sunset"
+ },
+ {
+  "n": 269,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "asks which one"
+ },
+ {
+  "n": 270,
+  "truth": "ok",
+  "useful": "no",
+  "why": "only climb figures; omits that difficulty can't be judged / ask ranger"
+ },
+ {
+  "n": 271,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "no wildlife data, ask ranger"
+ },
+ {
+  "n": 272,
+  "truth": "borderline",
+  "useful": "yes",
+  "why": "verbatim list; intermittent stream not called possibly dry"
+ },
+ {
+  "n": 273,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "can't judge, ask ranger, length"
+ },
+ {
+  "n": 274,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "nearest perennial stream correct"
+ },
+ {
+  "n": 275,
+  "truth": "borderline",
+  "useful": "yes",
+  "why": "lumps campsites at 0.3 mi WSW; W5 is southwest and others 0.5 km"
+ },
+ {
+  "n": 276,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "gap, 13 mi; omits direction/elevation but core is right"
+ },
+ {
+  "n": 277,
+  "truth": "borderline",
+  "useful": "yes",
+  "why": "keeps 'intermittent' label but doesn't say it may be dry"
+ },
+ {
+  "n": 278,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "offers Rylander Trail as close name; omits exact-match name"
+ },
+ {
+  "n": 279,
+  "truth": "ok",
+  "useful": "no",
+  "why": "says pick from names below but lists none"
+ },
+ {
+  "n": 280,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "no wildlife data, ranger"
+ },
+ {
+  "n": 281,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "can't judge, ask ranger, length"
+ },
+ {
+  "n": 282,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "lists closest names incl. exact match"
+ },
+ {
+  "n": 283,
+  "truth": "ok",
+  "useful": "no",
+  "why": "distance/climb/time only; no directions"
+ },
+ {
+  "n": 284,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "asks which one"
+ },
+ {
+  "n": 285,
+  "truth": "real",
+  "useful": "no",
+  "why": "invents 'significant climb', 'good for beginners', 'challenging'; contradicts no-rating fact"
+ },
+ {
+  "n": 286,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "distance, time, first step correct"
+ },
+ {
+  "n": 287,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "can't judge, ask ranger"
+ },
+ {
+  "n": 288,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "elevation correct"
+ },
+ {
+  "n": 289,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "elevation correct"
+ },
+ {
+  "n": 290,
+  "truth": "real",
+  "useful": "no",
+  "why": "'short and doable' difficulty claim; no directions"
+ },
+ {
+  "n": 291,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "daylight shortfall stated"
+ },
+ {
+  "n": 292,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "distance, time, daylight correct"
+ },
+ {
+  "n": 293,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "13 mi NW, by the CDT"
+ },
+ {
+  "n": 294,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "all facts correct"
+ },
+ {
+  "n": 295,
+  "truth": "real",
+  "useful": "no",
+  "why": "'we're good to go' drops the daylight shortfall warning"
+ },
+ {
+  "n": 296,
+  "truth": "real",
+  "useful": "no",
+  "why": "vague; drops daylight warning, no route info"
+ },
+ {
+  "n": 297,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "can't judge, ask ranger"
+ },
+ {
+  "n": 298,
+  "truth": "real",
+  "useful": "no",
+  "why": "invents 'you are currently at the trailhead'; doesn't ask which one"
+ },
+ {
+  "n": 299,
+  "truth": "real",
+  "useful": "yes",
+  "why": "daylight noted but omits that route stops 610 ft short off any mapped trail"
+ },
+ {
+  "n": 300,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "elevation correct"
+ },
+ {
+  "n": 301,
+  "truth": "real",
+  "useful": "no",
+  "why": "treats intermittent creek as a water source; no facts given"
+ },
+ {
+  "n": 302,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "daylight shortfall stated"
+ },
+ {
+  "n": 303,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "can't judge, length, elevation range, ranger"
+ },
+ {
+  "n": 304,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "gap, 13 mi"
+ },
+ {
+  "n": 305,
+  "truth": "ok",
+  "useful": "no",
+  "why": "vague 'fair walk', no distance or directions"
+ },
+ {
+  "n": 306,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "intermittent stream flagged as unreliable"
+ },
+ {
+  "n": 307,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "elevation correct"
+ },
+ {
+  "n": 308,
+  "truth": "real",
+  "useful": "no",
+  "why": "'clear view' invented; says trail dark now though dark at 6:48 and it is 6:30; garbled"
+ },
+ {
+  "n": 309,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "elevation correct"
+ },
+ {
+  "n": 310,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "daylight shortfall, advises not to start"
+ },
+ {
+  "n": 311,
+  "truth": "ok",
+  "useful": "no",
+  "why": "no content"
+ },
+ {
+  "n": 312,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "road, trail continuations, outside boundary roughly right"
+ },
+ {
+  "n": 313,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "distance, time, daylight correct"
+ },
+ {
+  "n": 314,
+  "truth": "real",
+  "useful": "no",
+  "why": "invents approaching the trail, a significant drop; facts say name not found"
+ },
+ {
+  "n": 315,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "elevation correct"
+ },
+ {
+  "n": 316,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "distance, time, daylight, stops short all stated"
+ },
+ {
+  "n": 317,
+  "truth": "ok",
+  "useful": "no",
+  "why": "distance/time only; no directions"
+ },
+ {
+  "n": 318,
+  "truth": "borderline",
+  "useful": "yes",
+  "why": "stop-short phrasing reverses relation (trail stops NNE of Eagle Bay vs Eagle Bay NNE of stop)"
+ },
+ {
+  "n": 319,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "verbatim perennial list"
+ },
+ {
+  "n": 320,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "can't judge, ask ranger"
+ },
+ {
+  "n": 321,
+  "truth": "ok",
+  "useful": "no",
+  "why": "distance/climb/time but no directions"
+ },
+ {
+  "n": 322,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "1 h until sunset correct; omits clock times"
+ },
+ {
+  "n": 323,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "can't judge, length"
+ },
+ {
+  "n": 324,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "verbatim incl. Eagle Nest Ln access"
+ },
+ {
+  "n": 325,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "times correct"
+ },
+ {
+  "n": 326,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "all facts correct"
+ },
+ {
+  "n": 327,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "can't judge, ranger, length"
+ },
+ {
+  "n": 328,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "daylight shortfall stated"
+ },
+ {
+  "n": 329,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "daylight and off-trail gap stated"
+ },
+ {
+  "n": 330,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "no live info, ranger"
+ },
+ {
+  "n": 331,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "sun set, dark by 6:49 correct"
+ },
+ {
+  "n": 332,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "tap 140 ft correct (direction omitted)"
+ },
+ {
+  "n": 333,
+  "truth": "ok",
+  "useful": "no",
+  "why": "doesn't say what was searched; omits Parking Lot access"
+ },
+ {
+  "n": 334,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "daylight shortfall, don't start"
+ },
+ {
+  "n": 335,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "no live info, ranger"
+ },
+ {
+  "n": 336,
+  "truth": "ok",
+  "useful": "no",
+  "why": "distance/time only; no directions"
+ },
+ {
+  "n": 337,
+  "truth": "ok",
+  "useful": "no",
+  "why": "says what was searched but omits Parking Lot access"
+ },
+ {
+  "n": 338,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "sunset time correct"
+ },
+ {
+  "n": 339,
+  "truth": "real",
+  "useful": "yes",
+  "why": "invents 'significant elevation change'"
+ },
+ {
+  "n": 340,
+  "truth": "real",
+  "useful": "yes",
+  "why": "sends hiker to intermittent stream without saying it may be dry"
+ },
+ {
+  "n": 341,
+  "truth": "real",
+  "useful": "no",
+  "why": "claims info is incorrect; gives nothing"
+ },
+ {
+  "n": 342,
+  "truth": "ok",
+  "useful": "no",
+  "why": "distance/time only; no directions"
+ },
+ {
+  "n": 343,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "daylight shortfall stated"
+ },
+ {
+  "n": 344,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "no live info, ranger"
+ },
+ {
+  "n": 345,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "daylight and off-trail gap stated"
+ },
+ {
+  "n": 346,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "no permit info, check alerts"
+ },
+ {
+  "n": 347,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "distance, direction, nearest trail correct; 'big peak' is mild"
+ },
+ {
+  "n": 348,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "asks which one"
+ },
+ {
+  "n": 349,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "nearest is a tap"
+ },
+ {
+  "n": 350,
+  "truth": "borderline",
+  "useful": "yes",
+  "why": "intermittent label kept but not called possibly dry"
+ },
+ {
+  "n": 351,
+  "truth": "real",
+  "useful": "no",
+  "why": "says sun is setting (it set) and trail dark now (dark at 6:48, it is 6:30)"
+ },
+ {
+  "n": 352,
+  "truth": "ok",
+  "useful": "no",
+  "why": "distance/time only; no directions"
+ },
+ {
+  "n": 353,
+  "truth": "borderline",
+  "useful": "yes",
+  "why": "correct road; 'can relax' implies safety not in facts"
+ },
+ {
+  "n": 354,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "can't judge, ranger, length"
+ },
+ {
+  "n": 355,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "verbatim"
+ },
+ {
+  "n": 356,
+  "truth": "real",
+  "useful": "no",
+  "why": "invents a river feature; doesn't say no wildlife data"
+ },
+ {
+  "n": 357,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "length and maintainer correct"
+ },
+ {
+  "n": 358,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "offers exact-match closest name"
+ },
+ {
+  "n": 359,
+  "truth": "real",
+  "useful": "no",
+  "why": "'easy one' difficulty claim; no directions"
+ },
+ {
+  "n": 360,
+  "truth": "real",
+  "useful": "yes",
+  "why": "invents 'east' for Indian Pass Trail and 'decent option' judgment"
+ },
+ {
+  "n": 361,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "says no live data, points to rangers"
+ },
+ {
+  "n": 362,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "no wildlife data, ask ranger"
+ },
+ {
+  "n": 363,
+  "truth": "real",
+  "useful": "no",
+  "why": "says none reaches it; facts say reached from Eagle Nest Ln"
+ },
+ {
+  "n": 364,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "nearest stream flagged intermittent, not relied on"
+ },
+ {
+  "n": 365,
+  "truth": "real",
+  "useful": "no",
+  "why": "invents beautiful spot/trail currently rough; drops 34 min daylight warning and route"
+ },
+ {
+  "n": 366,
+  "truth": "ok",
+  "useful": "no",
+  "why": "omits closest names, which include the exact trail asked"
+ },
+ {
+  "n": 367,
+  "truth": "real",
+  "useful": "no",
+  "why": "drops daylight warning and that route stops 0.2 mi short off trail"
+ },
+ {
+  "n": 368,
+  "truth": "ok",
+  "useful": "no",
+  "why": "omits that it is reached from Eagle Nest Ln"
+ },
+ {
+  "n": 369,
+  "truth": "real",
+  "useful": "no",
+  "why": "claims Trail Information is a path; facts ask which one"
+ },
+ {
+  "n": 370,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "nearest stream flagged intermittent"
+ },
+ {
+  "n": 371,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "no live data, check alerts/ranger"
+ },
+ {
+  "n": 372,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "verbatim route"
+ },
+ {
+  "n": 373,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "asks which Junction Lake"
+ },
+ {
+  "n": 374,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "verbatim"
+ },
+ {
+  "n": 375,
+  "truth": "borderline",
+  "useful": "yes",
+  "why": "calls the 90 ft point a junction; facts say point where trail continues"
+ },
+ {
+  "n": 376,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "time and first step correct"
+ },
+ {
+  "n": 377,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "no ratings, length and elevation range"
+ },
+ {
+  "n": 378,
+  "truth": "ok",
+  "useful": "no",
+  "why": "rude non-answer; no route info or trailhead"
+ },
+ {
+  "n": 379,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Kettle Creek perennial 0.5 mi ESE correct"
+ },
+ {
+  "n": 380,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "faithful location summary"
+ },
+ {
+  "n": 381,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "no wildlife data"
+ },
+ {
+  "n": 382,
+  "truth": "ok",
+  "useful": "no",
+  "why": "distance/time only, no directions"
+ },
+ {
+  "n": 383,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "faithful location"
+ },
+ {
+  "n": 384,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "time vs daylight and off-trail end stated"
+ },
+ {
+  "n": 385,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "faithful"
+ },
+ {
+  "n": 386,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "distance, time vs daylight"
+ },
+ {
+  "n": 387,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "distance, daylight, stops short off trail"
+ },
+ {
+  "n": 388,
+  "truth": "borderline",
+  "useful": "yes",
+  "why": "\"narrow passage\" is an interpretation of gap; rest exact"
+ },
+ {
+  "n": 389,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "asks which one"
+ },
+ {
+  "n": 390,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "no ratings, length given"
+ },
+ {
+  "n": 391,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "no ratings, length, ask ranger"
+ },
+ {
+  "n": 392,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "asks which one"
+ },
+ {
+  "n": 393,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "time vs daylight and stops 0.2 mi short"
+ },
+ {
+  "n": 394,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "time vs daylight, stops short off trail"
+ },
+ {
+  "n": 395,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "no live data"
+ },
+ {
+  "n": 396,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "near-verbatim location, cut off mid-list"
+ },
+ {
+  "n": 397,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "no ratings, ask ranger; omits length"
+ },
+ {
+  "n": 398,
+  "truth": "ok",
+  "useful": "no",
+  "why": "only says unnamed road; omits Capser Road junction, outside boundary"
+ },
+ {
+  "n": 399,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "time vs daylight, ends off trail"
+ },
+ {
+  "n": 400,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "no ratings, length"
+ },
+ {
+  "n": 401,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "elevation exact"
+ },
+ {
+  "n": 402,
+  "truth": "ok",
+  "useful": "no",
+  "why": "no route, distance or daylight warning; dodges"
+ },
+ {
+  "n": 403,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "no ratings, ask ranger"
+ },
+ {
+  "n": 404,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "peak 7.0 mi; omits direction and nearest trail"
+ },
+ {
+  "n": 405,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "time vs daylight"
+ },
+ {
+  "n": 406,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "asks which one"
+ },
+ {
+  "n": 407,
+  "truth": "real",
+  "useful": "yes",
+  "why": "\"rough walk\" misreads rough walking time as difficulty; route partly given"
+ },
+ {
+  "n": 408,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "asks which one"
+ },
+ {
+  "n": 409,
+  "truth": "ok",
+  "useful": "no",
+  "why": "time only, no directions"
+ },
+ {
+  "n": 410,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "sun set, dark by 6:49"
+ },
+ {
+  "n": 411,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "sunset and dark times correct"
+ },
+ {
+  "n": 412,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "no ratings, ask ranger"
+ },
+ {
+  "n": 413,
+  "truth": "real",
+  "useful": "no",
+  "why": "\"significant climb\"/\"that way\" vague; drops daylight shortfall and 0.8 mi off-trail end"
+ },
+ {
+  "n": 414,
+  "truth": "ok",
+  "useful": "no",
+  "why": "asked sunset; gives only time until dark"
+ },
+ {
+  "n": 415,
+  "truth": "borderline",
+  "useful": "yes",
+  "why": "states daylight shortfall but says \"move now\", undercutting warning"
+ },
+ {
+  "n": 416,
+  "truth": "ok",
+  "useful": "no",
+  "why": "asked sunset; omits 6:29 PM"
+ },
+ {
+  "n": 417,
+  "truth": "borderline",
+  "useful": "yes",
+  "why": "labels intermittent but does not say it may be dry; \"rest is below\" unclear"
+ },
+ {
+  "n": 418,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "daylight shortfall, don't start"
+ },
+ {
+  "n": 419,
+  "truth": "ok",
+  "useful": "no",
+  "why": "asked sunset; gives only time to dark"
+ },
+ {
+  "n": 420,
+  "truth": "real",
+  "useful": "no",
+  "why": "invents three branches and dialogue; no ratings caveat"
+ },
+ {
+  "n": 421,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "verbatim"
+ },
+ {
+  "n": 422,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "distance, time vs daylight"
+ },
+ {
+  "n": 423,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "no ratings, length"
+ },
+ {
+  "n": 424,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "time vs daylight"
+ },
+ {
+  "n": 425,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "tap 140 ft correct"
+ },
+ {
+  "n": 426,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "two nearest perennial streams exact"
+ },
+ {
+  "n": 427,
+  "truth": "borderline",
+  "useful": "yes",
+  "why": "labels stream intermittent but does not say it may be dry"
+ },
+ {
+  "n": 428,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "length and climb exact"
+ },
+ {
+  "n": 429,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "6.9 mi west, intermittent, don't count on it"
+ },
+ {
+  "n": 430,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "no wildlife data"
+ },
+ {
+  "n": 431,
+  "truth": "real",
+  "useful": "no",
+  "why": "tells hiker to treat and drink from intermittent creek; no facts given"
+ },
+ {
+  "n": 432,
+  "truth": "real",
+  "useful": "no",
+  "why": "invents fork, left branch, direct route; ignores no-connection gap"
+ },
+ {
+  "n": 433,
+  "truth": "ok",
+  "useful": "no",
+  "why": "distance/time only, no directions"
+ },
+ {
+  "n": 434,
+  "truth": "real",
+  "useful": "no",
+  "why": "invents rocky uneven path; ignores no-live-data answer"
+ },
+ {
+  "n": 435,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "faithful location with info board"
+ },
+ {
+  "n": 436,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "distance, time vs 19 min daylight"
+ },
+ {
+  "n": 437,
+  "truth": "real",
+  "useful": "no",
+  "why": "invents 7.9 mi trail route and 57 m height; facts say no connection"
+ },
+ {
+  "n": 438,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "asks which one"
+ },
+ {
+  "n": 439,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "Titcomb Lakes 260 ft WSW correct"
+ },
+ {
+  "n": 440,
+  "truth": "real",
+  "useful": "yes",
+  "why": "adds \"challenging route\"; otherwise no ratings, ask ranger"
+ },
+ {
+  "n": 441,
+  "truth": "real",
+  "useful": "no",
+  "why": "invents \"good choice for most hikers\""
+ },
+ {
+  "n": 442,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "elevation correct"
+ },
+ {
+  "n": 443,
+  "truth": "ok",
+  "useful": "no",
+  "why": "distance/time only, no directions"
+ },
+ {
+  "n": 444,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "sunset 6:19, dark 6:48 correct"
+ },
+ {
+  "n": 445,
+  "truth": "real",
+  "useful": "no",
+  "why": "invents challenging terrain; no route; drops daylight shortfall"
+ },
+ {
+  "n": 446,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "elevation, trail ends 310 ft WNW correct"
+ },
+ {
+  "n": 447,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "no ratings, length"
+ },
+ {
+  "n": 448,
+  "truth": "real",
+  "useful": "yes",
+  "why": "invents summit soon and steady climb; elevation correct"
+ },
+ {
+  "n": 449,
+  "truth": "real",
+  "useful": "no",
+  "why": "intermittent stream not flagged as possibly dry"
+ },
+ {
+  "n": 450,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "closest is unnamed perennial stream"
+ },
+ {
+  "n": 451,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "time vs daylight"
+ },
+ {
+  "n": 452,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "distance, time vs 34 min daylight"
+ },
+ {
+  "n": 453,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "length correct; dangling \"details below\""
+ },
+ {
+  "n": 454,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "elevation correct"
+ },
+ {
+  "n": 455,
+  "truth": "ok",
+  "useful": "no",
+  "why": "does not list the closest names, which include the exact trail"
+ },
+ {
+  "n": 456,
+  "truth": "borderline",
+  "useful": "no",
+  "why": "implies animal activity/marked trail; never says map has no wildlife data"
+ },
+ {
+  "n": 457,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "time vs daylight shortfall"
+ },
+ {
+  "n": 458,
+  "truth": "real",
+  "useful": "no",
+  "why": "says none reaches it; facts say reached from Eagle Nest Ln"
+ },
+ {
+  "n": 459,
+  "truth": "ok",
+  "useful": "no",
+  "why": "omits that it is reached from Eagle Nest Ln"
+ },
+ {
+  "n": 460,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "no ratings, length, ask ranger"
+ },
+ {
+  "n": 461,
+  "truth": "ok",
+  "useful": "no",
+  "why": "omits that it is reached from Eagle Nest Ln"
+ },
+ {
+  "n": 462,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "verbatim route"
+ },
+ {
+  "n": 463,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "sunset and dark times correct"
+ },
+ {
+  "n": 464,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "no live data, ask ranger"
+ },
+ {
+  "n": 465,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "verbatim stream list"
+ },
+ {
+  "n": 466,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "sunset, minutes to sunset and dark correct"
+ },
+ {
+  "n": 467,
+  "truth": "real",
+  "useful": "no",
+  "why": "invents stream on left, clearing, rocks; garbles trail names"
+ },
+ {
+  "n": 468,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "tap 140 ft east correct"
+ },
+ {
+  "n": 469,
+  "truth": "real",
+  "useful": "yes",
+  "why": "invents rocky trail and significant climb; elevation correct"
+ },
+ {
+  "n": 470,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "no ratings, ask ranger"
+ },
+ {
+  "n": 471,
+  "truth": "ok",
+  "useful": "no",
+  "why": "only says unnamed road; omits location details"
+ },
+ {
+  "n": 472,
+  "truth": "ok",
+  "useful": "no",
+  "why": "distance/time only, no directions"
+ },
+ {
+  "n": 473,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "no live data, ask ranger"
+ },
+ {
+  "n": 474,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "no ratings, length"
+ },
+ {
+  "n": 475,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "no live data"
+ },
+ {
+  "n": 476,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "intermittent, may be dry"
+ },
+ {
+  "n": 477,
+  "truth": "real",
+  "useful": "no",
+  "why": "nearest stream is intermittent but not flagged; no distances"
+ },
+ {
+  "n": 478,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "direction, elevation, nearest trail correct"
+ },
+ {
+  "n": 479,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "time vs 19 min daylight"
+ },
+ {
+  "n": 480,
+  "truth": "ok",
+  "useful": "yes",
+  "why": "time vs daylight shortfall"
+ }
+]

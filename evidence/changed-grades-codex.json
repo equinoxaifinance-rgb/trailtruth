@@ -1,0 +1,82 @@
+[
+ {
+  "n": 1,
+  "truth": "ok",
+  "useful": "no"
+ },
+ {
+  "n": 2,
+  "truth": "ok",
+  "useful": "yes"
+ },
+ {
+  "n": 3,
+  "truth": "ok",
+  "useful": "no"
+ },
+ {
+  "n": 4,
+  "truth": "ok",
+  "useful": "yes"
+ },
+ {
+  "n": 5,
+  "truth": "ok",
+  "useful": "no"
+ },
+ {
+  "n": 6,
+  "truth": "ok",
+  "useful": "no"
+ },
+ {
+  "n": 7,
+  "truth": "ok",
+  "useful": "yes"
+ },
+ {
+  "n": 8,
+  "truth": "ok",
+  "useful": "no"
+ },
+ {
+  "n": 9,
+  "truth": "ok",
+  "useful": "no"
+ },
+ {
+  "n": 10,
+  "truth": "borderline",
+  "useful": "no"
+ },
+ {
+  "n": 11,
+  "truth": "ok",
+  "useful": "yes"
+ },
+ {
+  "n": 12,
+  "truth": "borderline",
+  "useful": "no"
+ },
+ {
+  "n": 13,
+  "truth": "ok",
+  "useful": "no"
+ },
+ {
+  "n": 14,
+  "truth": "ok",
+  "useful": "no"
+ },
+ {
+  "n": 15,
+  "truth": "real",
+  "useful": "yes"
+ },
+ {
+  "n": 16,
+  "truth": "ok",
+  "useful": "yes"
+ }
+]
