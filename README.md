@@ -55,6 +55,8 @@ Gemma 3 1B was fine-tuned on answers written by code from the map data (never by
 
 On 80 questions, gaps of a few answers like these (0 to 5) are within noise, so the claim is parity with Claude, not that it beats Claude. The gap that is real is against stock Gemma.
 
+The 80 hand-graded answers are a sample from a bigger run: 490 answers per model (98 questions, each asked in 5 voices, across the same 14 parks), all scored by the app's own checker. On that run the gap is far outside noise: the checker flagged 13 to 17% of Claude's first drafts and 5% of round 3's (stock Gemma: 47%). My model was trained to pass that checker, so read it as playing on home ground, not as proof it beats Claude.
+
 The fine-tuned model, in the 4-bit build that runs on the phone with no signal, made things up about as rarely as Claude. Claude still packs more into its one line (useful on the line alone: Claude 69 to 72 of 80, ours 54 to 58), but in the app the full map answer always sits under the line. The two graders agreed 94% of the time. The Claude grader was kinder to the Claude models than Codex was (Haiku 1 vs 5, Opus 0 vs 4) and no kinder to mine, so the parity held even under the grader that leaned toward Claude. The full write-up is in the DEV post.
 
 ## What's open, and what isn't
