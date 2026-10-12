@@ -51,7 +51,7 @@ Gemma 3 1B was fine-tuned on answers written by code from the map data (never by
 | Claude Sonnet | 3 / 80 | 69 / 80 |
 | Claude Opus | 0 / 80 | 72 / 80 |
 
-A Claude grader read every answer. Because a Claude model grading Claude is a conflict, OpenAI's Codex graded them too: the two agreed on "made something up or not" 95% of the time. The full write-up is in the DEV post.
+A Claude grader read every answer. Because a Claude model grading Claude is a conflict, OpenAI's Codex graded all 480 too: the two agreed on "made something up or not" 94% of the time, and under Codex the phone model with its checks made something up in 2 of 80 answers, against 3 to 5 for each Claude model. The full write-up is in the DEV post.
 
 ## What's open, and what isn't
 
