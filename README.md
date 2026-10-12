@@ -21,7 +21,7 @@ TrailTruth is built the other way round. The map data answers, and the AI only g
 - **Water.** Mapped springs, streams, lakes and taps near you, and whether a stream runs all year. It can't tell you if water is flowing today, and it says so.
 - **Daylight.** Sunset where you are standing, and how much light you have left.
 - **Trip planner.** Day-by-day legs, camps, water and exits.
-- **Emergency.** One tap shows 911 first, then your coordinates in three formats including the US National Grid rescuers use, then the nearest places a rescuer can reach.
+- **Emergency.** One tap shows 911 first (for the US areas the app covers), then your coordinates in three formats including the US National Grid rescuers use, then the nearest places a rescuer can reach.
 - **Park passport and achievements.** Walk up to real summits, waterfalls and viewpoints to stamp them. Earn achievements for miles, climb and steps, all measured by the phone.
 - **Trail companion.** A small AI model (Gemma 3 1B) that runs on the phone itself. Every name, number and direction it says is checked against the map before you see it. A line it can't back up is cut, and it tells you it left something out. In an emergency it is skipped entirely.
 
@@ -36,24 +36,26 @@ TrailTruth is built the other way round. The map data answers, and the AI only g
 3. If it doesn't know (weather, closures today, snow, how hard a hike is for you), it says so and shows the facts it does have.
 4. With signal, it shows National Weather Service and National Park Service alerts word for word, with their source.
 
-These checks (more than 7,000) run on all 261 areas before every release: calls for help asked many different ways at many spots in each park (always answered with 911 first, never dodged), routes checked against the true shortest path, planted lies that the checker has to catch, and questions the data cannot answer.
+These checks (more than 5,500 tests, each covering many cases, itemized in [CHECKS.md](CHECKS.md)) run on all 261 areas before every release: calls for help asked many different ways at many spots in each park (always answered with 911 first for the US areas the app covers, never dodged), routes checked against the true shortest path, planted lies that the checker has to catch, and questions the data cannot answer.
 
 ## The companion, tested blind against Claude
 
 Gemma 3 1B was fine-tuned on answers written by code from the map data (never by another AI), then tested on 80 fresh questions from 14 parks it never trained on. Every model got the same questions, map facts and checks, and two graders (a Claude grader and OpenAI's Codex) graded the answers blind.
 
-**Did it make something up?** (out of 80 answers)
+**Did it make something up?** (number of answers, out of the same 80 questions per model, n=80)
 
 | | Claude grader | Codex grader |
 |---|---|---|
-| **fine-tuned Gemma 3 1B, round 3 (in the app now)** | **3** | **0** |
-| **fine-tuned Gemma 3 1B, round 4** | **2** | **2** |
+| fine-tuned Gemma 3 1B, round 3 (in the app now) | 3 | 0 |
+| fine-tuned Gemma 3 1B, round 4 (after checks built from these same 80 answers, so round 3 is the clean test) | 2 | 2 |
 | Claude Haiku | 1 | 5 |
 | Claude Sonnet | 3 | 3 |
 | Claude Opus | 0 | 4 |
 | stock Gemma 3 1B | 47 | 51 |
 
-The fine-tuned model, in the 4-bit build that runs on the phone with no signal, made things up about as rarely as Claude. Claude still packs more into its one line (useful on the line alone: Claude 69 to 72 of 80, ours 54 to 58), but in the app the full map answer always sits under the line. The two graders agreed 94% of the time. The full write-up is in the DEV post.
+On 80 questions, gaps of a few answers like these (0 to 5) are within noise, so the claim is parity with Claude, not that it beats Claude. The gap that is real is against stock Gemma.
+
+The fine-tuned model, in the 4-bit build that runs on the phone with no signal, made things up about as rarely as Claude. Claude still packs more into its one line (useful on the line alone: Claude 69 to 72 of 80, ours 54 to 58), but in the app the full map answer always sits under the line. The two graders agreed 94% of the time. The Claude grader was kinder to the Claude models than Codex was (Haiku 1 vs 5, Opus 0 vs 4) and no kinder to mine, so the parity held even under the grader that leaned toward Claude. The full write-up is in the DEV post.
 
 ## What's open, and what isn't
 
